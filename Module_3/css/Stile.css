@@ -644,11 +644,11 @@ p {
 	margin-right: 18px;
 }
 
-@media screen and (max-width: 400px) {
+/*@media screen and (max-width: 400px) {
     .about-box {
         justify-content: center;
     }
     .about-vid img {
         width: 80%;
     }
-}
+}*/
